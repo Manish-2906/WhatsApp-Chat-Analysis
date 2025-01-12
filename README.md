@@ -42,7 +42,8 @@ Word frequency bar graph for popular terms.
 
 Emoji Analysis: Pie charts and dataframes showing commonly used emojis.
 
-![Screenshot (154)](https://github.com/user-attachments/assets/a3e864a1-df8e-41a2-9888-c92ef048c808)
+![Screenshot (154)](https://github.com/user-attachments/assets/a1bdbf39-368b-4d30-94d1-3f4089a011ae)
+
 ![Screenshot (156)](https://github.com/user-attachments/assets/c4dbc8a2-6ac3-4c54-b7dd-52d0fb0223f5)
 ![Screenshot (155)](https://github.com/user-attachments/assets/b8bf1467-a118-41af-a9d1-1a587a34111f)
 
